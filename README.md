@@ -2,6 +2,9 @@
 Power BI is a powerful data visualization tool that can be used to present novel coronavirus statistics in an interactive and engaging manner. 
 
 
+# Data Source -
+Data has been scarpped from the souce site - https://www.worldometers.info/coronavirus/ 
+
 ![Dashboard_covid](https://github.com/PreetiAgrwal1525/Visualization-of-Novel-corona-virus-statistics-Using-PowerBI/assets/113472487/13e84fe7-accc-45e5-82a1-b5b12e867bd2)
 
 
